@@ -28,5 +28,6 @@ With Vim 8, simply:
 Alternatively, use a package manager in the normal way.
 
 Then add this to your .vimrc: 
+    
     set termguicolors
     colorscheme bat
