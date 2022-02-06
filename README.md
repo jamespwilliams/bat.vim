@@ -4,7 +4,7 @@ Syntax highlighting for Vim, inspired by the default highlighting of the
 [bat](https://github.com/sharkdp/bat) command-line tool.
 
 <p align="center">
-  <img src="https://i.imgur.com/KqYA7p2.png" alt="Example of Bat highlighting a Go file" width="700px">
+  <img src="https://i.imgur.com/mVr8dTP.png" alt="Example of Bat highlighting a Go file" width="700px">
 </p>
 
 As well as an appealing base theme, this syntax highlighting file has support
