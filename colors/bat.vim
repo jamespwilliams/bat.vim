@@ -23,7 +23,7 @@ if exists("syntax_on")
   syntax reset
 endif
 
-let g:colors_name = "Bat"
+let g:colors_name = "bat"
 
 function! s:hi(name, fg, bg, gui)
     execute 'hi' a:name "ctermfg=NONE" "ctermbg=NONE" ("guifg=".a:fg) ("guibg=".a:bg) ("gui=".a:gui)
