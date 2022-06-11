@@ -7,11 +7,9 @@ Syntax highlighting for Vim, inspired by the default highlighting of the
   <img src="https://i.imgur.com/mVr8dTP.png" alt="Example of Bat highlighting a Go file" width="700px">
 </p>
 
-As well as an appealing base theme, this syntax highlighting file has support
-for the more specific syntax defined by the following plugins:
-
-- [X] Go ([vim-go](https://github.com/fatih/vim-go/))
-- [ ] Python
+Most effort has gone into highlighting Go well. To that end, I've added special
+rules which will make highlighting even nicer when `vim-go` and/or
+`nvim-treesitter`'s Go parsers are enabled.
 
 ## Requirements
 
